@@ -139,7 +139,9 @@ DB_NAME=ngo_data_hub
 
 JWT_SECRET=super_secret_key
 
-CSRF_SECRET=csrf_secret_key
+ACCESS_TOKEN_SECRET=ACCESS_TOKEN_SECRET_key
+
+REFRESH_TOKEN_SECRET= Another_ACCESS_TOKEN_SECRET_key
 
 
 ⚠️ Never commit .env to Git
