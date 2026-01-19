@@ -97,6 +97,7 @@ git --version
 ---------------------------------------------------------------------------------------
 
 🗄️ Database Setup (FROM SCRATCH)
+
 1️⃣ Create Database
 
 Open MySQL and run:
