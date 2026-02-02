@@ -4,9 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "dev": "vite",
+    "start": "vite dev",
+    "dev": "vite dev",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
